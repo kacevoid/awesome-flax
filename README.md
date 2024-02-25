@@ -6,12 +6,12 @@ A curated [Awesome](https://github.com/sindresorhus/awesome) list of Flax Game E
 ---
 
 ## Contents
-- [Contribution](https://github.com/kacevoid/awesome-flax/edit/main/README.md#contribution)
-- [Engine Plugins](https://github.com/kacevoid/awesome-flax/edit/main/README.md#engine-plugins)
-- [Migration](https://github.com/kacevoid/awesome-flax/edit/main/README.md#migration)
-- [Graphics](https://github.com/kacevoid/awesome-flax/edit/main/README.md#graphics)
-- [UI Tools](https://github.com/kacevoid/awesome-flax/edit/main/README.md#ui-tools)
-- [Games](https://github.com/kacevoid/awesome-flax/edit/main/README.md#games)
+- [Contribution](https://github.com/kacevoid/awesome-flax/README.md#contribution)
+- [Engine Plugins](https://github.com/kacevoid/awesome-flax/README.md#engine-plugins)
+- [Migration](https://github.com/kacevoid/awesome-flax/README.md#migration)
+- [Graphics](https://github.com/kacevoid/awesome-flax/README.md#graphics)
+- [UI Tools](https://github.com/kacevoid/awesome-flax/README.md#ui-tools)
+- [Games](https://github.com/kacevoid/awesome-flax/README.md#games)
 
 
 ## Contribution
