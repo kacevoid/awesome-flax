@@ -1,4 +1,4 @@
-# Awesome Flax@ [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Flax [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 ![logo_512](https://github.com/kacevoid/awesome-flax/assets/27834580/588296fe-03bf-4037-97b3-e2531cc0d31e)
 
